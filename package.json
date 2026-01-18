@@ -1,5 +1,5 @@
 {
-    "name": "HamzxYzX/WaBails",
+    "name": "HamzxYzX/SixSevenBaileys",
     "version": "1.7.3",
     "description": "SixSeven Core Bail",
     "keywords": [
@@ -10,7 +10,7 @@
         "url": "https://github.com/HamzxYzXConquerorCess/SixSevenBaileys"
     },
     "license": "MIT",
-    "author": "SEVENSIX CORE",
+    "author": "HamzxYzX",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
