@@ -38,3 +38,7 @@ await HamzxYzX.relayMessage(m.chat, {
   }
 })
 ```
+##Thanks To
+```javascript
+["HamzxYzX", "Yanz", "Nixell", "Xsat", "Ranz"]
+```
