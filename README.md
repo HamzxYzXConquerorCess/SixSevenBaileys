@@ -8,14 +8,14 @@
 ## Usage
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github: HamzxYzXConquerorCess/SixSevenBaileys"
+  "SixSevenBaileys": "github: HamzxYzXConquerorCess/SixSevenBaileys"
 }
 ```
 ## Import
 ```javascript
 const {
   default:makeWASocket, 
-} = require('@whiskeysockets/baileys');
+} = require('SixSevenBaileys');
 ```
 
 ```javascript
@@ -42,10 +42,6 @@ await HamzxYzX.relayMessage(m.chat, {
 ```javascript
 [
   "HamzxYzX",
-  "Yanz",
-  "Nixell",
-  "Xsat",
-  "Ranz",
   "Buyer SixSeven Core"
 ]
 ```
